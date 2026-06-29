@@ -1,4 +1,4 @@
-## [Week 1] - 2026-04-20
+## [Week 1] - 2026-04-22 to 2026-04-26
 
 - started a KB for Project: HeyBudi
 - research on ai & ai agents and current market solutions
