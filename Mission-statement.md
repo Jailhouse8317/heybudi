@@ -18,4 +18,4 @@
 
 ## Final Deliverable
 
-The primary deliverable will be an engaging, high-impact **promotional and instructional video campaign**. This video will introduce NYP students to the **HeyBudi** framework, visually demonstrating step-by-step how these AI solutions can be immediately incorporated into their personal and academic routines to save time and reduce stress.
+The primary deliverable will be an engaging, high-impact **promotional and instructional video campaign** short form vertical video like youtube shorts. This video will introduce NYP students to the **HeyBudi** framework, visually demonstrating step-by-step how these AI solutions can be immediately incorporated into their personal and academic routines to save time & focus on the creative & innovation aspect.
