@@ -1,7 +1,3 @@
-Here is your cleaned-up content, fully formatted in clean and structured Markdown:
-
----
-
 ## User Story 4: The Socratic Study & Research Synthesizer (Google NotebookLM & Gemini Lifecycle)
 
 **Persona:** Clarissa, Year 2 student at the School of Business Management (SBM) / School of Information Technology (SIT).
