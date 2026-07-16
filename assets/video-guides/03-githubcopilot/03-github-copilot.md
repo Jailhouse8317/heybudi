@@ -1,7 +1,3 @@
-Here is the beautifully formatted version of your user story and guide using clean, structured Markdown:
-
----
-
 ## User Story 3: The Non-Programmer Logic Assistant
 
 ### GitHub Copilot Lifecycle
