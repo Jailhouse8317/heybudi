@@ -104,13 +104,13 @@ To maintain zero infrastructure maintenance costs and achieve macro audience ret
 
 ### 🎙️ Audio Automation & Artificial Intelligence
 * **[AutoSubs extension for DaVinci Resolve](https://github.com/tmoroney/auto-subs)**: A timeline extension that runs a self-hosted, local **Parakeet Speech-to-Text model** to generate automated captioning and dynamic text animations, cutting subtitling times by over 85% with 90%+ recognition accuracy.
-* **[Voicebox AI](https://voicebox.sh/download)**: A high-fidelity, local-first custom voice cloning and synthesis engine that runs completely offline with zero subscription fees, reducing voiceover recording setup and retake overhead by ~80%.
+* **[Voicebox AI](https://github.com/jamiepine/voicebox)**: A high-fidelity, local-first custom voice cloning and synthesis engine that runs completely offline with zero subscription fees, reducing voiceover recording setup and retake overhead by ~80%.
 
 
 ### 🖥️ UI Capture & Remote Infrastructure
 * **[OBS Mouse-to-Zoom Script](https://github.com/BlankSourceCode/obs-zoom-to-mouse)**: Implements dynamic screen zooming and panning that automatically tracks the desktop cursor position in real time. Eliminates 90% of manual video keyframing during editing and keeps mobile viewers focused on small desktop buttons.
 * **[MS PowerToys Mouse Highlighter](https://github.com/microsoft/powertoys)**: Overlays real-time, customizable colored highlighting on mouse clicks. Increases instructional visual focus and viewer comprehension by ~40% for software tutorials.
-* **[Parsec Remote Connect](https://parsec.app/)**: A low-latency, ultra-fast remote networking utility allowing a user to seamlessly connect to, monitor, and run resource-heavy local AI rendering tasks on a powerful home computer right from a basic campus laptop or thin client.
+* **[Parsec Remote Connect (Free Tier)](https://parsec.app/)**: A low-latency, ultra-fast remote networking utility allowing a user to seamlessly connect to, monitor, and run resource-heavy local AI rendering tasks on a powerful home computer right from a basic campus laptop or thin client.
 
 ---
 
