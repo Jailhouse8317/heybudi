@@ -59,7 +59,7 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
 * 🚀 **Episode 4: The Instant Study Buddy** 
   * **Focus:** Consolidating an entire semester's worth of chaotic lecture notes, PDFs, and slide decks into an interactive personalized study guide and automated audio overview briefings.
   * **Toolchain:** Google NotebookLM.
-  * **Watch:** [YouTube Shorts: Episode 4 Preview](https://youtube.com/shorts/5z5OgTvg5ew?feature=share)
+  * **Watch:** [YouTube Shorts: Episode 4](https://youtube.com/shorts/5z5OgTvg5ew?feature=share)
 
 ---
 
