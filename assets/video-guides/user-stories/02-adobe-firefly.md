@@ -1,1 +1,0 @@
-"A complex futuristic hydroponics system inside a transparent glass dome, stylized blueprints floating around it, high-tech sensors, clean engineering aesthetic, soft blue and green lighting, corporate visualization style, 8k resolution --ar 16:9"
