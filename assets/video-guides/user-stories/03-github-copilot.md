@@ -1,1 +1,0 @@
-"Review the hardware logic across #main.py. The current sensor loop is blocking incoming network packets, causing a delay. Refactor the reading routine to use asynchronous execution (asyncio) so sensor telemetry is queued and sent without pausing the hardware cycle. Keep the hardware pin configurations exactly as they are."
