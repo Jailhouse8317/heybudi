@@ -1,2 +1,0 @@
-- draft workflow for user stories
-- explore further on more OCR and computer vison tools like google lens
