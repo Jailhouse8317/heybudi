@@ -1,6 +1,5 @@
 # 🤖 HeyBudi: The Democratized AI Framework for NYP Students
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Target Audience](https://img.shields.io/badge/Audience-NYP%20Students-blue)](https://www.nyp.edu.sg)
 [![Framework Status](https://img.shields.io/badge/FYPJ-Week%207%20(Production)-orange)](#)
 
@@ -121,8 +120,3 @@ Are you an NYP student, lecturer, or AI enthusiast with a high-impact, zero-cost
 2. Structure your prompt template inside the `/prompts` directory following our standard format.
 3. Open a Pull Request detailing the target student persona and the "Before vs. After" impact metrics!
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
