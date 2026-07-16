@@ -65,10 +65,34 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
 
 ## 📁 Repository Navigation
 
-* 📂 **[`/prompts`](./prompts)**: Organized by episode. Houses copy-and-paste markdown prompt templates optimized for Microsoft Copilot, Kimi, and Google NotebookLM[cite: 1].
-* 📂 **[`/guides`](./guides)**: Step-by-step documentation detailing local tool configurations, remote access pipelines, and verifying GitHub Student Developer benefits[cite: 1].
+The project files are mapped directly to specific step-by-step documentation guides and resource folders:
 
----
+```text
+├── assets/
+│   ├── Images/                       # Visual identity assets (Logos, banners)
+│   │   ├── nyp-logo-white-Firefly.png
+│   │   └── nyp-logo-white.png
+│   ├── prompt-templates/             # Raw copy-and-paste prompt snippets
+│   └── video-guides/                 # Modular step-by-step guides by episode
+│       ├── 01-adobefirefly/
+│       │   ├── assets/
+│       │   └── 01-adobe-firefly.md   # Guide for The Visual Elite (Ep. 1)
+│       ├── 02-copilot/
+│       │   ├── assets/
+│       │   └── 02-edge-copilot.md    # Guide for The Syllabus Killer (Ep. 2)
+│       ├── 03-githubcopilot/
+│       │   ├── assets/
+│       │   └── 03-github-copilot.md  # Guide for Logic Over Syntax (Ep. 3)
+│       └── 04-google-notebookLM/
+│           ├── assets/
+│           └── 04-google-notebookLM.md # Guide for The Instant Study Buddy (Ep. 4)
+└── README.md                         # Framework landing page
+```
+
+📂 assets/prompt-templates: Houses raw copy-and-paste prompt snippets designed for quick clipboard selection[cite: 1].
+
+📂 assets/video-guides: Step-by-step Markdown walkthrough notes corresponding directly to the video tutorials, explaining workflow setup instructions and advanced configurations[cite: 1].
+
 
 ## 🛠️ Post-Production Infrastructure & Toolchain
 
@@ -76,12 +100,12 @@ To maintain zero infrastructure maintenance costs and achieve macro audience ret
 
 ### 🎬 Video Editing & Composition
 * **[DaVinci Resolve & Fairlight Workspace](https://www.blackmagicdesign.com/products/davinciresolve)**: An industry-standard, professional video editing and audio post-production suite used to cut, color grade, and master the series[cite: 1]. Elevates project production value to broadcast standards using native dialogue isolation, parametric EQ, and audio ducking scripts[cite: 1].
-* **[CapCut Desktop](https://www.youtube.com/watch?v=iz2nbCqcFUg&t=135s)**: A fast, timeline-based editor optimized for swift social media formatting, pacing trims, and rapid asset arranging to establish high-retention short-form pacing[cite: 1].
+
 
 ### 🎙️ Audio Automation & Artificial Intelligence
 * **[AutoSubs extension for DaVinci Resolve](https://github.com/tmoroney/auto-subs)**: A timeline extension that runs a self-hosted, local **Parakeet Speech-to-Text model** to generate automated captioning and dynamic text animations, cutting subtitling times by over 85% with 90%+ recognition accuracy[cite: 1].
 * **[Voicebox AI](https://voicebox.sh/download)**: A high-fidelity, local-first custom voice cloning and synthesis engine that runs completely offline with zero subscription fees, reducing voiceover recording setup and retake overhead by ~80%[cite: 1].
-* **[Pinokio Browser (Wan2GP Generation)](https://desktop.pinokio.co/)**: An open-source desktop browser interface used to easily install, self-host, and run local AI video generation engines, helping create dynamic b-roll assets without hitting web payment barriers[cite: 1]. Refer to the [Wan2GP Video Generation Guide](https://www.youtube.com/watch?v=G2Ec3h5 किफA8)[cite: 1].
+
 
 ### 🖥️ UI Capture & Remote Infrastructure
 * **[OBS Mouse-to-Zoom Script](https://github.com/BlankSourceCode/obs-zoom-to-mouse)**: Implements dynamic screen zooming and panning that automatically tracks the desktop cursor position in real time[cite: 1]. Eliminates 90% of manual video keyframing during editing and keeps mobile viewers focused on small desktop buttons[cite: 1].
@@ -93,9 +117,9 @@ To maintain zero infrastructure maintenance costs and achieve macro audience ret
 ## 🤝 Contributing
 
 Are you an NYP student, lecturer, or AI enthusiast with a high-impact, zero-cost workflow to share?[cite: 1] 
-1. Fork this repository[cite: 1].
-2. Structure your prompt template inside the `/prompts` directory following our standard format[cite: 1].
-3. Open a Pull Request detailing the target student persona and the "Before vs. After" impact metrics[cite: 1]!
+1. Fork this repository.
+2. Structure your prompt template inside the `/prompts` directory following our standard format.
+3. Open a Pull Request detailing the target student persona and the "Before vs. After" impact metrics!
 
 ---
 
