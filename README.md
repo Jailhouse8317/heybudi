@@ -126,7 +126,6 @@ To maintain zero infrastructure maintenance costs and achieve macro audience ret
 ## 🤝 Contributing
 
 Are you an NYP student, lecturer, or AI enthusiast with a high-impact, zero-cost workflow to share? 
-1. Fork this repository.
-2. Structure your prompt template inside the `/prompts` directory following our standard format.
-3. Open a Pull Request detailing the target student persona and the "Before vs. After" impact metrics!
+1. Structure your prompt template inside the `/prompts-templates.md` directory following our standard format.
+2. Open a Pull Request detailing the target student persona and the "Before vs. After" impact metrics!
 
