@@ -7,6 +7,10 @@ Welcome to **HeyBudi**, an open-source, 12-week Final Year Project (FYPJ) framew
 
 HeyBudi replaces complex, frustrating manual prompt engineering with an open-access repository of pre-written, plug-and-play templates. We empower students across all academic schools (**SIT, SEG, SDM, SBM, SHSS, SAS**) to automate academic administrative friction, build pro-grade assets, and scale everyday productivity using zero-cost or school-backed AI tiers.
 
+[![Troubleshooting Hub](https://img.shields.io/badge/Troubleshooting-Hub-ff6b35?style=for-the-badge)](Troubleshooting-Solutions.md)
+
+Need help? Start with the button above for a central list of fixes and issue-specific solutions.
+
 ---
 
 ## 🎯 Core Philosophy
@@ -112,6 +116,8 @@ To maintain zero infrastructure maintenance costs and achieve macro audience ret
 
 ### 🖥️ UI Capture & Remote Infrastructure
 * **[OBS Mouse-to-Zoom Script](https://github.com/BlankSourceCode/obs-zoom-to-mouse)**: Implements dynamic screen zooming and panning that automatically tracks the desktop cursor position in real time. Eliminates 90% of manual video keyframing during editing and keeps mobile viewers focused on small desktop buttons.
+  * **Troubleshooting:** [OBS Mouse-to-Zoom troubleshooting notes](Troubleshooting-Solutions.md)
+* **[Troubleshooting Hub](Troubleshooting-Solutions.md)**: Central knowledge base for all troubleshooting steps, fixes, and issue-specific solutions.
 * **[MS PowerToys Mouse Highlighter](https://github.com/microsoft/powertoys)**: Overlays real-time, customizable colored highlighting on mouse clicks. Increases instructional visual focus and viewer comprehension by ~40% for software tutorials.
 * **[Parsec Remote Connect (Free Tier)](https://parsec.app/)**: A low-latency, ultra-fast remote networking utility allowing a user to seamlessly connect to, monitor, and run resource-heavy local AI rendering tasks on a powerful home computer right from a basic campus laptop or thin client.
 
