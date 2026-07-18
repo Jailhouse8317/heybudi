@@ -105,6 +105,10 @@ To maintain zero infrastructure maintenance costs and achieve macro audience ret
 * **[AutoSubs extension for DaVinci Resolve](https://github.com/tmoroney/auto-subs)**: A timeline extension that runs a self-hosted, local **Parakeet Speech-to-Text model** to generate automated captioning and dynamic text animations, cutting subtitling times by over 85% with 90%+ recognition accuracy.
 * **[Voicebox AI](https://github.com/jamiepine/voicebox)**: A high-fidelity, local-first custom voice cloning and synthesis engine that runs completely offline with zero subscription fees, reducing voiceover recording setup and retake overhead by ~80%.
 
+### 🎙️ Recording Equipment Used
+* **Microphone:** Behringer Ultravoice XM8500
+* **Audio Pre Amp:** Focusrite Scarlett Solo
+
 
 ### 🖥️ UI Capture & Remote Infrastructure
 * **[OBS Mouse-to-Zoom Script](https://github.com/BlankSourceCode/obs-zoom-to-mouse)**: Implements dynamic screen zooming and panning that automatically tracks the desktop cursor position in real time. Eliminates 90% of manual video keyframing during editing and keeps mobile viewers focused on small desktop buttons.
