@@ -64,6 +64,40 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
   * **Toolchain:** Google NotebookLM.
   * **Watch:** [YouTube Shorts: Episode 4](https://youtube.com/shorts/5z5OgTvg5ew?feature=share)
 
+### 📈 Production Improvement Notes
+
+These notes track how each episode evolved across the Agile-style production cycle, showing the concrete edits made to improve clarity, pacing, and viewer retention.
+
+* **Episode 1: The Visual Elite / Adobe Firefly**
+  * First video produced for the series.
+  * Auto subtitles were generated using the Parakeet AI model through the auto-subs workflow.
+  * Audio used a generic AI voice track.
+  * Cursor tracking was done manually and the result was still rough.
+  * Strong as an MVP, but it established the baseline for future production upgrades.
+
+* **Episode 2: The Syllabus Killer / Microsoft Copilot**
+  * Editing quality was improved compared to Episode 1.
+  * More images were added to the intro to make the opening stronger.
+  * A new AI voice clone based on my own voice was added for more natural narration.
+  * OBS mouse-to-zoom was used for cursor tracking and zoom so viewers could follow the script more easily.
+  * MS PowerToys Mouse Highlighter was added to make clicks more visible.
+
+* **Episode 3: Logic Over Syntax / GitHub Copilot**
+  * Background music was added to make the video feel more polished.
+  * The audio mix still needed refinement, especially for voice EQ and background track leveling.
+  * This episode identified the need for better sound balancing in later edits.
+
+* **Episode 4: The Instant Study Buddy / Google NotebookLM**
+  * Audio mixing and EQ were improved again.
+  * More intro images were added to retain viewer attention for longer.
+  * The episode continued the production upgrades introduced in the earlier walkthroughs.
+
+* **Episode 5: The UpScayl Walkthrough**
+  * The voice clone was overhauled to sound more energetic and engaging.
+  * Voice compression was added to improve clarity and consistency.
+  * Audio mixing was refined further for the voice-over.
+  * Technical details were added at the end of the short to keep viewers engaged through the finish.
+
 ---
 
 ## 📁 Repository Navigation
