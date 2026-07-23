@@ -63,6 +63,10 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
   * **Focus:** Consolidating an entire semester's worth of chaotic lecture notes, PDFs, and slide decks into an interactive personalized study guide and automated audio overview briefings.
   * **Toolchain:** Google NotebookLM.
   * **Watch:** [YouTube Shorts: Episode 4](https://youtube.com/shorts/5z5OgTvg5ew?feature=share)
+* 🎨 **Episode 5: The UpScayl Walkthrough**
+  * **Focus:** Improving voice delivery, audio mix quality, and viewer retention with a more energetic production style.
+  * **Toolchain:** Voice clone, audio compression, and post-production refinement.
+  * **Watch:** [YouTube Shorts: Episode 5](https://youtube.com/shorts/tQbmySANTgo)
 
 ### 📈 Production Improvement Notes
 
@@ -78,7 +82,7 @@ These notes track how each episode evolved across the Agile-style production cyc
 * **Episode 2: The Syllabus Killer / Microsoft Copilot**
   * Editing quality was improved compared to Episode 1.
   * More images were added to the intro to make the opening stronger.
-  * A new AI voice clone based on my own voice was added for more natural narration.
+  * A new AI voice clone based on my own voice was added for more natural narration powered by Voicebox Ai with the Qwen TTS 1.7b model.
   * OBS mouse-to-zoom was used for cursor tracking and zoom so viewers could follow the script more easily.
   * MS PowerToys Mouse Highlighter was added to make clicks more visible.
 
