@@ -140,6 +140,10 @@ The project files are mapped directly to specific step-by-step documentation gui
 
 To maintain zero infrastructure maintenance costs and achieve macro audience retention, this project's content pipeline was built entirely out of cutting-edge local automation, open-source utilities, and advanced AI video tools:
 
+### 🖼️ AI Image Generation
+
+- **Nano Banana Pro**: Used for all AI image generation across the project, including visual assets and supporting graphics.
+
 ### 🎬 Video Editing & Composition
 * **[DaVinci Resolve & Fairlight Workspace](https://www.blackmagicdesign.com/products/davinciresolve)**: An industry-standard, professional video editing and audio post-production suite used to cut, color grade, and master the series. Elevates project production value to broadcast standards using native dialogue isolation, parametric EQ, and audio ducking scripts.
 
