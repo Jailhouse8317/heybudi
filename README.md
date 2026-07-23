@@ -8,8 +8,9 @@ Welcome to **HeyBudi**, an open-source, 12-week Final Year Project (FYPJ) framew
 HeyBudi replaces complex, frustrating manual prompt engineering with an open-access repository of pre-written, plug-and-play templates. We empower students across all academic schools (**SIT, SEG, SDM, SBM, SHSS, SAS**) to automate academic administrative friction, build pro-grade assets, and scale everyday productivity using zero-cost or school-backed AI tiers.
 
 [![Troubleshooting Hub](https://img.shields.io/badge/Troubleshooting-Hub-ff6b35?style=for-the-badge)](Troubleshooting-Solutions.md)
+[![Prompt Templates](https://img.shields.io/badge/Prompt-Templates-1f8ef1?style=for-the-badge)](prompt-templates.md)
 
-Need help? Start with the button above for a central list of fixes and issue-specific solutions.
+Need help? Start with the buttons above for a central list of fixes and issue-specific solutions.
 
 ---
 
@@ -113,7 +114,7 @@ The project files are mapped directly to specific step-by-step documentation gui
 │   ├── Images/                       # Visual identity assets (Logos, banners)
 │   │   ├── nyp-logo-white-Firefly.png
 │   │   └── nyp-logo-white.png
-│   ├── prompt-templates/             # Raw copy-and-paste prompt snippets
+│   ├── prompt-templates.md           # Raw copy-and-paste prompt snippets
 │   └── video-guides/                 # Modular step-by-step guides by episode
 │       ├── 01-adobefirefly/
 │       │   ├── assets/
@@ -130,7 +131,7 @@ The project files are mapped directly to specific step-by-step documentation gui
 └── README.md                         # Framework landing page
 ```
 
-📂 assets/prompt-templates: Houses raw copy-and-paste prompt snippets designed for quick clipboard selection.
+📂 prompt-templates.md: Houses raw copy-and-paste prompt snippets designed for quick clipboard selection.
 
 📂 assets/video-guides: Step-by-step Markdown walkthrough notes corresponding directly to the video tutorials, explaining workflow setup instructions and advanced configurations.
 
@@ -164,6 +165,6 @@ To maintain zero infrastructure maintenance costs and achieve macro audience ret
 ## 🤝 Contributing
 
 Are you an NYP student, lecturer, or AI enthusiast with a high-impact, zero-cost workflow to share? 
-1. Structure your prompt template inside the `/prompts-templates.md` directory following our standard format.
+1. Structure your prompt template in `prompt-templates.md` following our standard format.
 2. Open a Pull Request detailing the target student persona and the "Before vs. After" impact metrics!
 
