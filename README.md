@@ -151,6 +151,7 @@ To maintain zero infrastructure maintenance costs and achieve macro audience ret
 ### 🎙️ Audio Automation & Artificial Intelligence
 * **[AutoSubs extension for DaVinci Resolve](https://github.com/tmoroney/auto-subs)**: A timeline extension that runs a self-hosted, local **Parakeet Speech-to-Text model** to generate automated captioning and dynamic text animations, cutting subtitling times by over 85% with 90%+ recognition accuracy.
 * **[Voicebox AI](https://github.com/jamiepine/voicebox)**: A high-fidelity, local-first custom voice cloning and synthesis engine that runs completely offline with zero subscription fees, reducing voiceover recording setup and retake overhead by ~80%.
+  * Voice settings: Qwen TTS 1.7B AI model with compressor and high-pass filter.
 
 ### 🎙️ Recording Equipment Used
 * **Microphone:** Behringer Ultravoice XM8500
