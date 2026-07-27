@@ -48,30 +48,40 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
 
 ### 📱 Feature Episodes & Playlists
 
-* 🎬 **Episode 1: The Visual Elite** 
+* 🎬 **Episode 1: The Visual Elite**
   * **Focus:** Generating pro-grade presentation backdrops and custom technical assets.
   * **Toolchain:** Adobe Firefly's text-based generative fill.
   * **Watch:** [YouTube Shorts: Episode 1](https://www.youtube.com/shorts/cyMZ1rA7g8A)
-* 📅 **Episode 2: The Syllabus Killer** 
-  * **Focus:** Converting a messy, dense syllabus screenshot into a structured, dynamic assignment timeline.
-  * **Toolchain:** Google Lens (OCR) + Markdown Logic Engines.
+
+
+* 📅 **Episode 2: The Syllabus Killer**
+  * **Focus:** Synthesizing complex course material and research directly in your browser using edge-side web extensions.
+  * **Toolchain:** Microsoft Copilot + Microsoft Edge Copilot Extension.
   * **Watch:** [YouTube Shorts: Episode 2](https://youtube.com/shorts/ofPs7ZR9slA?feature=share)
-* 💻 **Episode 3: Logic Over Syntax** 
+
+
+* 💻 **Episode 3: Logic Over Syntax**
   * **Focus:** Programming logic, systems architecture, and code debugging rather than manually typing syntax.
   * **Toolchain:** Microsoft Copilot Sandbox + GitHub Copilot.
   * **Watch:** [YouTube Shorts: Episode 3](https://youtube.com/shorts/ye-KLc_W3oM?feature=share)
-* 🚀 **Episode 4: The Instant Study Buddy** 
+
+
+* 🚀 **Episode 4: The Instant Study Buddy**
   * **Focus:** Consolidating an entire semester's worth of chaotic lecture notes, PDFs, and slide decks into an interactive personalized study guide and automated audio overview briefings.
   * **Toolchain:** Google NotebookLM.
   * **Watch:** [YouTube Shorts: Episode 4](https://youtube.com/shorts/5z5OgTvg5ew?feature=share)
-* 🎨 **Episode 5: The UpScayl Walkthrough**
-  * **Focus:** Improving voice delivery, audio mix quality, and viewer retention with a more energetic production style.
-  * **Toolchain:** Voice clone, audio compression, and post-production refinement.
+
+
+* 🖼️ **Episode 5: The UpScayl Walkthrough**
+  * **Focus:** Enhancing and super-resolving pixelated or low-resolution images locally using open-source neural network models.
+  * **Toolchain:** UpScayl (Local AI Image Upscaler).
   * **Watch:** [YouTube Shorts: Episode 5](https://youtube.com/shorts/tQbmySANTgo)
+
+
 * 🎙️ **Episode 6: Voicebox AI Walkthrough**
-  * **Focus:** Generating ultra-realistic speech synthesis, audio editing, and cross-lingual voice cloning.
-  * **Toolchain:** Meta's Voicebox AI.
-  * **Watch:** [YouTube Shorts: Episode 6](https://youtube.com/shorts/lRXrD7s24vw)
+  * **Focus:** Instant local voice cloning, speech-to-text transcription, and multi-track audio generation without cloud subscriptions.
+  * **Toolchain:** Voicebox AI (Local Open-Source Audio Engine).
+  * **Watch:** [YouTube Shorts: Episode 6](https://www.google.com/search?q=https://youtube.com/shorts/lRXrD7s24vw)
 
 ### 📈 Production Improvement Notes
 
@@ -106,6 +116,11 @@ These notes track how each episode evolved across the Agile-style production cyc
   * Voice compression was added to improve clarity and consistency.
   * Audio mixing was refined further for the voice-over.
   * Technical details were added at the end of the short to keep viewers engaged through the finish.
+
+* **Episode 6: Voicebox AI Walkthrough**
+  * Production workflow reached full maturity with highly refined audio generation.
+  * Integrated compression and a high-pass filter directly into the Voicebox AI profile.
+  * Cleaned up low-frequency mud and balanced voice dynamics at the source, significantly cutting down on post-production audio processing.
 
 ---
 
