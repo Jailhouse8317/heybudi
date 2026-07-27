@@ -68,6 +68,10 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
   * **Focus:** Improving voice delivery, audio mix quality, and viewer retention with a more energetic production style.
   * **Toolchain:** Voice clone, audio compression, and post-production refinement.
   * **Watch:** [YouTube Shorts: Episode 5](https://youtube.com/shorts/tQbmySANTgo)
+* 🎙️ **Episode 6: Voicebox AI Walkthrough**
+  * **Focus:** Generating ultra-realistic speech synthesis, audio editing, and cross-lingual voice cloning.
+  * **Toolchain:** Meta's Voicebox AI.
+  * **Watch:** [YouTube Shorts: Episode 6](https://youtube.com/shorts/lRXrD7s24vw)
 
 ### 📈 Production Improvement Notes
 
