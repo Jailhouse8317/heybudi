@@ -114,7 +114,7 @@ These notes track how each episode evolved across the Agile-style production cyc
 * **Episode 5: The UpScayl Walkthrough**
   * The voice clone was overhauled to sound more energetic and engaging.
   * Voice compression was added to improve clarity and consistency.
-  * Audio mixing was refined further for the voice-over.
+  * Audio mixing was refined further for the voice-over and the background music.
   * Technical details were added at the end of the short to keep viewers engaged through the finish.
 
 * **Episode 6: Voicebox AI Walkthrough**
