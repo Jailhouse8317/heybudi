@@ -15,6 +15,10 @@ Short reference library of reusable prompts pulled from the video guides.
 	- [Fix compilation error](#fix-compilation-error)
 - [Google NotebookLM](#google-notebooklm)
 	- [Socratic tutor prompt](#socratic-tutor-prompt)
+- [Upscayl](#upscayl)
+    - [Ultra Sharp (General & Diagrams)](#ultra-sharp-general--diagrams)
+    - [UltraMix Balanced (Mixed Graphics & CGI)](#ultramix-balanced-mixed-graphics--cgi)
+    - [Digital Art / Anime (Clean Graphics)](#digital-art--anime-clean-graphics)
 
 ## Adobe Firefly
 
@@ -127,3 +131,46 @@ Best for: Studying lecture material and checking whether you really understand t
 Act as a Socratic tutor. Ask me 3 practice scenario questions based on Chapter 2 of my uploaded slides. Do not reveal the answers until I respond.
 ```
 
+## Upscayl
+
+### Ultra Sharp (General & Diagrams)
+
+What it does: Enhances edges, sharpens text in diagrams, and recovers fine details in photos and technical assets.
+
+Best for: Screenshots, technical diagrams, flowcharts, and high-detail photos.
+
+```text
+Model: REAL-ESRGAN / ULTRA SHARP
+Scale: 4x
+Image Format: PNG
+Double Upscayl: Off (Enable if starting resolution is under 500px)
+
+```
+
+### UltraMix Balanced (Mixed Graphics & CGI)
+
+What it does: Smooths out compression artifacts while preserving textures without adding unwanted noise or over-sharpening halo effects.
+
+Best for: 3D renders, UI mockups, presentation visuals, and composite graphic designs.
+
+```text
+Model: ULTRAMIX BALANCED
+Scale: 4x
+Image Format: PNG
+Double Upscayl: Off
+
+```
+
+### Digital Art / Anime (Clean Graphics)
+
+What it does: Sharpens flat colors and vector line work while preventing jagged line edges on solid fills.
+
+Best for: Logos, line art, vector illustrations, and anime-style graphics.
+
+```text
+Model: DIGITAL ART / ANIME
+Scale: 4x
+Image Format: PNG
+Double Upscayl: Off
+
+```
