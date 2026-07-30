@@ -6,6 +6,7 @@
   - [Error: attempt to call field obs_sceneitem_get_info (a nil value)](#error-attempt-to-call-field-obs_sceneitem_get_info-a-nil-value)
 - [Voicebox AI](#voicebox-ai)
   - [Fixing Inconsistent or Poor Audio Levels](#fixing-inconsistent-or-poor-audio-levels)
+  - [Voice Inconsistencies & Tone Shifts Mid-Audio (Chunking)](#voice-inconsistencies--tone-shifts-mid-audio-chunking)
 
 ## OBS Mouse-to-Zoom
 
@@ -86,3 +87,24 @@ When generating or processing audio in Voicebox AI, audio levels can sometimes s
 
 - **Filter Order Matters:** If using both filters together, place the **High-Pass Filter first** to clean up unnecessary low frequencies before sending the clean signal into the **Compressor**.
 - Avoid setting the High-Pass cutoff too high (above 120 Hz), as it may make the voice sound thin or metallic.
+---
+
+### Voice Inconsistencies & Tone Shifts Mid-Audio (Chunking)
+
+### Problem
+When generating longer scripts, the voice may suddenly change pitch, pacing, or accent halfway through the same audio clip. 
+
+### Cause
+By default, Voicebox AI uses a lower character chunking size (around **800 characters**). This forces the engine to slice your text into separate batches and stitch them back together. Because each chunk is synthesized independently, the AI model may pick up slightly different voice parameters for subsequent chunks.
+
+### Fix
+
+1. Open your **Voicebox AI Generation Settings** or **Synthesis Parameters**.
+2. Locate the **Chunk Size / Max Characters per Chunk** field (Default is `800`).
+3. Set the chunk size to the maximum limit of **`3000` characters**.
+4. Regenerate the audio clip.
+
+### Notes
+
+- Setting the character chunking to **3000** forces the entire script to be processed in a single pass, ensuring consistent voice timbre, pacing, and tone across the clip.
+- If using both audio filters and max chunking, ensure filter order is set correctly (**High-Pass Filter first**, followed by **Compressor**).
