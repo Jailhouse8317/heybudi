@@ -8,7 +8,7 @@ Welcome to **HeyBudi**, an open-source, 12-week Final Year Project (FYPJ) framew
 HeyBudi replaces complex, frustrating manual prompt engineering with an open-access repository of pre-written, plug-and-play templates. We empower students across all academic schools (**SIT, SEG, SDM, SBM, SHSS, SAS**) to automate academic administrative friction, build pro-grade assets, and scale everyday productivity using zero-cost or school-backed AI tiers.
 
 [![Troubleshooting Hub](https://img.shields.io/badge/Troubleshooting-Hub-ff6b35?style=for-the-badge)](Troubleshooting-Solutions.md)
-[![Prompt Templates](https://img.shields.io/badge/Prompt-Templates-1f8ef1?style=for-the-badge)](prompt-templates.md)
+[![Prompt Templates](https://img.shields.io/badge/Prompt-Wiki-1f8ef1?style=for-the-badge)](AI-Prompt-Wiki.md)
 
 Need help? Start with the buttons above for a central list of fixes and issue-specific solutions.
 
