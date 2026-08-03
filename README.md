@@ -38,7 +38,7 @@ The core workflows rely on a carefully structured stack of accessible AI capabil
 * **GitHub Copilot:** An AI pair programmer providing real-time, inline code completions and hardware debugging inside the IDE to accelerate project prototyping for heavy coding modules.
 * **Public Free-Tier Engines (ChatGPT / Claude / DeepSeek / Kimi AI):** Utilized strictly as anonymous public "Document Readers" to synthesize layout formatting, convert text into Markdown tables, and translate files, serving as a workaround to bypass sandboxed file-upload limits.
 * **Google Ecosystem (Gemini / Google Lens):** Used for Optical Character Recognition (OCR) text extraction, smart note synthesis, and automated calendar syncing to power rapid schedule building.
-* **Perplexity / Manus AI:** Autonomous, agent-based deep research engines that navigate multiple web source tabs to gather live information and compile structured presentation outlines.
+
 
 ---
 
