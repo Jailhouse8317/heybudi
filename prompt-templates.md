@@ -7,6 +7,9 @@ Short reference library of reusable prompts pulled from the video guides.
 - [Adobe Firefly](#adobe-firefly)
 	- [Base engineering concept](#base-engineering-concept)
 	- [Canvas expansion](#canvas-expansion)
+- [AutoSubs AI (DaVinci Resolve & Premiere Pro)](#autosubs-ai-davinci-resolve--premiere-pro)
+    - [Model selection cheat sheet](#model-selection-cheat-sheet)
+    - [Short-form subtitle formatting](#short-form-subtitle-formatting)
 - [Edge Copilot](#edge-copilot)
 	- [Read active tabs](#read-active-tabs)
 	- [Synthesize for Notion](#synthesize-for-notion)
@@ -41,6 +44,52 @@ Best for: Turning a tight image into a slide-friendly widescreen layout.
 ```text
 Seamless extension of the clean engineering lab environment, minimalist white desk surface, more subtle geometric blueprint patterns receding into the soft focus background
 ```
+
+## AutoSubs AI (DaVinci Resolve & Premiere Pro)
+
+### Model selection cheat sheet
+
+What it does: Details the optimal local speech-to-text AI models inside AutoSubs for different hardware setups and project requirements.
+
+Best for: Choosing the right transcription engine for speed, language support, or offline execution without paying cloud API fees.
+
+* **Parakeet Model (Fastest / English Only):** * *Best for:* Fast English transcriptions, short-form voiceovers (e.g., Voicebox AI narrations), and low-tier laptops.
+* *Perks:* Ultra-lightweight on VRAM, near-instant rendering speeds, and word-level timestamp accuracy.
+
+
+* **Whisper Small / Medium (Multi-Language / Balanced):** * *Best for:* Multi-language content, Accented English, and complex terminology.
+* *Perks:* High recognition accuracy even with background music or noise; runs locally on consumer GPUs.
+
+
+* **Whisper Large (Maximum Accuracy):** * *Best for:* Long-form lectures, multi-speaker interviews, and noisy environments.
+* *Perks:* Highest accuracy; requires higher GPU VRAM.
+
+
+
+### Short-form subtitle formatting
+
+What it does: Configures AutoSubs to output bite-sized subtitle blocks optimal for TikTok, YouTube Shorts, and Instagram Reels.
+
+Best for: Generating readable, high-impact 2–4 word subtitle tracks on 9:16 vertical video timelines.
+
+```text
+Target Platform: DaVinci Resolve (Text+ Track V2) / Adobe Premiere Pro (Essential Graphics)
+Target Format: 9:16 Vertical Shorts
+Language: English
+Model: Parakeet (or Whisper Small)
+Max Characters Per Line: 15 - 20
+Max Lines Per Block: 1
+Animation Style: Pop-in Zoom / High-contrast Stroke & Shadow
+
+```
+
+> **Platform Integration Notes:**
+> * **DaVinci Resolve:** Launch via `Workspace` → `Scripts` → `AutoSubs`. Outputs editable, keyframeable `Text+` title blocks natively onto Video Track 2 (`V2`) on both the **Free** and **Studio** versions of Resolve.
+> * **Adobe Premiere Pro:** Integrates as a local panel script/extension. Exports SRT files or generates native Essential Graphics caption clips directly on the Premiere timeline.
+> 
+> 
+
+
 
 ## Edge Copilot
 
@@ -174,3 +223,4 @@ Image Format: PNG
 Double Upscayl: Off
 
 ```
+---
