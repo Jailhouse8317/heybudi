@@ -83,6 +83,13 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
   * **Toolchain:** Voicebox AI (Local Open-Source Audio Engine).
   * **Watch:** [YouTube Shorts: Episode 6](https://www.google.com/search?q=https://youtube.com/shorts/lRXrD7s24vw)
 
+
+* 💬 **Episode 7: The AutoSubs Engine**
+  * **Focus:** Transcribing local voiceover audio into dynamic, animated Text+ captions directly inside DaVinci Resolve using open-source offline models.
+  * **Toolchain:** AutoSubs (Local DaVinci Resolve Extension) + Parakeet AI Speech Model.
+  * **Watch:** [YouTube Shorts: Episode 7](https://youtube.com/shorts/YBCYgfHbZMg?feature=share)
+
+---
 ### 📈 Production Improvement Notes
 
 These notes track how each episode evolved across the Agile-style production cycle, showing the concrete edits made to improve clarity, pacing, and viewer retention.
@@ -121,6 +128,12 @@ These notes track how each episode evolved across the Agile-style production cyc
   * Production workflow reached full maturity with highly refined audio generation.
   * Integrated compression and a high-pass filter directly into the Voicebox AI profile.
   * Cleaned up low-frequency mud and balanced voice dynamics at the source, significantly cutting down on post-production audio processing.
+
+* **Episode 7: The AutoSubs Engine / DaVinci Resolve**
+  * Closed the post-production pipeline loop by transcribing the Voicebox AI narration locally using the **Parakeet** speech-to-text model inside AutoSubs.
+  * Generated word-level aligned `Text+` title blocks directly on Video Track 2 (`V2`) on the DaVinci timeline without relying on cloud credit subscriptions or paid DaVinci Resolve Studio upgrades.
+  * Standardized visual asset prompts around a Postman Pat-style claymation aesthetic to boost viewer retention.
+  * Designed an open script loop ending (`"So if you are..."`) to seamlessly restart video playback on short-form platforms.
 
 ---
 
