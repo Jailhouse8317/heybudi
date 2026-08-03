@@ -1,7 +1,7 @@
 # 🤖 HeyBudi: The Democratized AI Framework for NYP Students
 
 [![Target Audience](https://img.shields.io/badge/Audience-NYP%20Students-blue)](https://www.nyp.edu.sg)
-[![Framework Status](https://img.shields.io/badge/FYPJ-Week%207%20(Production)-orange)](#)
+[![Framework Status](https://img.shields.io/badge/FYPJ-12%20%20Weeks-orange)](#)
 
 Welcome to **HeyBudi**, an open-source, 12-week Final Year Project (FYPJ) framework designed to bridge the gap between technical and non-technical students across Nanyang Polytechnic (NYP). 
 
