@@ -3,7 +3,13 @@
 [![Target Audience](https://img.shields.io/badge/Audience-NYP%20Students-blue)](https://www.nyp.edu.sg)
 [![Framework Status](https://img.shields.io/badge/FYPJ-12%20%20Weeks-orange)](#)
 
-> 💡 **Need instant help?** Ask questions directly to our [Interactive DeepWiki Assistant](https://deepwiki.com/Jailhouse8317/heybudi)!
+<div align="center">
+
+# 💡 NEED INSTANT HELP?
+
+[![Ask Questions Directly To Our Interactive DeepWiki Assistant](https://img.shields.io/badge/💬_ASK_OUR_INTERACTIVE_DEEPWIKI_ASSISTANT-CLICK_HERE!-blue?style=for-the-badge&logo=robot&logoColor=white)](https://deepwiki.com/Jailhouse8317/heybudi)
+
+</div>
 
 Welcome to **HeyBudi**, an open-source, 12-week Final Year Project (FYPJ) framework designed to bridge the gap between technical and non-technical students across Nanyang Polytechnic (NYP). 
 
