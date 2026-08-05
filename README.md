@@ -97,6 +97,11 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
   * **Toolchain:** AutoSubs (Local DaVinci Resolve Extension) + Parakeet AI Speech Model.
   * **Watch:** [YouTube Shorts: Episode 7](https://youtube.com/shorts/YBCYgfHbZMg?feature=share)
 
+* 🌐 **Episode 8: Navigating HeyBudi & DeepWiki AI**
+  * **Focus:** Navigating the central `HeyBudi` repository via short link, accessing the Troubleshooting Hub, and querying the interactive DeepWiki AI assistant to discover zero-cost AI study tools.
+  * **Toolchain:** `bit.ly/heybudi` Short Link + GitHub Repository + DeepWiki AI Assistant (`deepwiki.com/Jailhouse8317/heybudi`).
+  * **Watch:** [YouTube Shorts: Episode 8](https://youtube.com/shorts/eJ2jcMePiV0?feature=share)
+
 ---
 ### 📈 Production Improvement Notes
 
@@ -143,6 +148,12 @@ These notes track how each episode evolved across the Agile-style production cyc
   * Standardized visual asset prompts around a Postman Pat-style claymation aesthetic to boost viewer retention.
   * Designed an open script loop ending (`"So if you are..."`) to seamlessly restart video playback on short-form platforms.
 
+* **Episode 8: Navigating HeyBudi & DeepWiki AI**
+  * Integrated short link redirection (`bit.ly/heybudi`) for mobile-friendly short-form caption callouts and viewer engagement tracking.
+  * Demonstrated interactive navigation through the repository resources, direct error jumps via the Troubleshooting Hub, and project video folders.
+  * Showcased conversational AI indexing via the **DeepWiki Assistant button**, illustrating natural-language queries (Voicebox AI local setup, 80Hz high-pass filter & 3:1 compressor specs) with grounded repo file citations.
+  * Mastered visual aesthetics using a detailed, hand-drawn colored pencil and ink art style on textured aged paper (Havana Peter Pan Pirate motif).
+  * Reinforced the seamless open script loop ending (`"So if you……"`) for continuous loop playback.
 ---
 
 ## 📁 Repository Navigation
@@ -180,9 +191,11 @@ The project files are mapped directly to specific step-by-step documentation gui
 
 To maintain zero infrastructure maintenance costs and achieve macro audience retention, this project's content pipeline was built entirely out of cutting-edge local automation, open-source utilities, and advanced AI video tools:
 
-### 🖼️ AI Image Generation
+### 🖼️ AI Image Generation & Documentation
 
 - **Nano Banana Pro**: Used for all AI image generation across the project, including visual assets and supporting graphics.
+
+- **DeepWiki AI (Cognition AI)**: Free public repository indexer that generates interactive system architecture maps, module guides, and a conversational AI search assistant (deepwiki.com/Jailhouse8317/heybudi).
 
 ### 🎬 Video Editing & Composition
 * **[DaVinci Resolve & Fairlight Workspace](https://www.blackmagicdesign.com/products/davinciresolve)**: An industry-standard, professional video editing and audio post-production suite used to cut, color grade, and master the series. Elevates project production value to broadcast standards using native dialogue isolation, parametric EQ, and audio ducking scripts.
