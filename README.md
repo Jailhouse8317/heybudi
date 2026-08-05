@@ -207,7 +207,7 @@ To maintain zero infrastructure maintenance costs and achieve macro audience ret
   * Voice settings: Qwen TTS 1.7B AI model with compressor and high-pass filter.
 
 ### 🎙️ Recording Equipment Used
-* **Microphone:** Behringer Ultravoice XM8500
+* **Microphone:** Behringer Ultravoice XM8500 & Sennheiser E835
 * **Audio Pre Amp:** Focusrite Scarlett Solo
 
 
