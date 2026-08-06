@@ -83,7 +83,7 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
 * 🖼️ **Episode 5: The UpScayl Walkthrough**
   * **Focus:** Enhancing and super-resolving pixelated or low-resolution images locally using open-source neural network models.
   * **Toolchain:** UpScayl (Local AI Image Upscaler).
-  * **Watch:** [YouTube Shorts: Episode 5](https://youtube.com/shorts/tQbmySANTgo)
+  * **Watch:** [YouTube Shorts: Episode 5](https://youtube.com/shorts/cnMTfC4jVQ4)
 
 
 * 🎙️ **Episode 6: Voicebox AI Walkthrough**
