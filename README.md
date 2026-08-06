@@ -89,7 +89,7 @@ Our flagship micro-learning video campaign shows immediate, real-world utility w
 * 🎙️ **Episode 6: Voicebox AI Walkthrough**
   * **Focus:** Instant local voice cloning, speech-to-text transcription, and multi-track audio generation without cloud subscriptions.
   * **Toolchain:** Voicebox AI (Local Open-Source Audio Engine).
-  * **Watch:** [YouTube Shorts: Episode 6](https://www.google.com/search?q=https://youtube.com/shorts/lRXrD7s24vw)
+  * **Watch:** [YouTube Shorts: Episode 6](https://youtube.com/shorts/NDFjPLf1VO8)
 
 
 * 💬 **Episode 7: The AutoSubs Engine**
