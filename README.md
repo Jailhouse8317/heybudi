@@ -146,14 +146,12 @@ These notes track how each episode evolved across the Agile-style production cyc
   * Closed the post-production pipeline loop by transcribing the Voicebox AI narration locally using the **Parakeet** speech-to-text model inside AutoSubs.
   * Generated word-level aligned `Text+` title blocks directly on Video Track 2 (`V2`) on the DaVinci timeline without relying on cloud credit subscriptions or paid DaVinci Resolve Studio upgrades.
   * Standardized visual asset prompts around a Postman Pat-style claymation aesthetic to boost viewer retention.
-  * Designed an open script loop ending (`"So if you are..."`) to seamlessly restart video playback on short-form platforms.
 
 * **Episode 8: Navigating HeyBudi & DeepWiki AI**
   * Integrated short link redirection (`bit.ly/heybudi`) for mobile-friendly short-form caption callouts and viewer engagement tracking.
   * Demonstrated interactive navigation through the repository resources, direct error jumps via the Troubleshooting Hub, and project video folders.
   * Showcased conversational AI indexing via the **DeepWiki Assistant button**, illustrating natural-language queries (Voicebox AI local setup, 80Hz high-pass filter & 3:1 compressor specs) with grounded repo file citations.
   * Mastered visual aesthetics using a detailed, hand-drawn colored pencil and ink art style on textured aged paper (Havana Peter Pan Pirate motif).
-  * Reinforced the seamless open script loop ending (`"So if you……"`) for continuous loop playback.
 ---
 
 ## 📁 Repository Navigation
