@@ -178,23 +178,19 @@ Here is the exact step-by-step workflow used to write, generate, edit, and subti
   [6. Timeline Polishing & Final Render]
 
 ```
-1. Script Drafting: Write a high-retention, microlearning script structured around a rapid "Hook → Problem → AI Solution → Result" format under 60 seconds.
+1. **Script Drafting:** Write a high-retention, microlearning script structured around a rapid "Hook → Problem → AI Solution → Result" format under 60 seconds.
+2. **Voiceover Synthesis (Voicebox AI):** Paste the script directly into **Voicebox AI** using the custom Qwen TTS 1.7B voice model with built-in compression and high-pass filtering, then export the finished narration as an `.mp3` file.
+3. **Timeline Assembly (DaVinci Resolve):**
+* Import the generated `.mp3` file onto **Audio Track 1 (`A1`)** in the DaVinci Resolve timeline.
+* Edit and pace the visual B-roll, screen recordings, cursor zooms, and cuts to synchronize tightly with the voice narration.
 
-2. Voiceover Synthesis (Voicebox AI): Paste the script directly into Voicebox AI using the custom Qwen TTS 1.7B voice model with built-in compression and high-pass filtering, then export the finished narration as an .mp3 file.
 
-3. Timeline Assembly (DaVinci Resolve):
+4. **Automated AI Subtitle Sync (AutoSubs):**
+* Run the **AutoSubs** extension inside DaVinci Resolve targeting the active narration track (`Audio 1`).
+* The local speech-to-text model analyzes speech peaks and cadences to automatically generate dynamic, word-level animated `Text+` captions directly on **Video Track 2 (`V2`)**.
 
- - Import the generated .mp3 file onto Audio Track 1 (A1) in the DaVinci Resolve timeline.
 
- - Edit and pace the visual B-roll, screen recordings, cursor zooms, and cuts to synchronize tightly with the voice narration.
-
-4. Automated AI Subtitle Sync (AutoSubs):
-
- - Run the AutoSubs extension inside DaVinci Resolve targeting the active narration track (Audio 1).
-
- - The local speech-to-text model analyzes speech peaks and cadences to automatically generate dynamic, word-level animated Text+ captions directly on Video Track 2 (V2).
-
-5. Timeline Polish & Export: Review the generated subtitle cards directly on the timeline, adjust line breaks or styling where needed, balance final audio levels, and render the vertical short.
+5. **Timeline Polish & Export:** Review the generated subtitle cards directly on the timeline, adjust line breaks or styling where needed, balance final audio levels, and render the vertical short.
 
 ---
 
