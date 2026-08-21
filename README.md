@@ -153,6 +153,50 @@ These notes track how each episode evolved across the Agile-style production cyc
   * Showcased conversational AI indexing via the **DeepWiki Assistant button**, illustrating natural-language queries (Voicebox AI local setup, 80Hz high-pass filter & 3:1 compressor specs) with grounded repo file citations.
   * Mastered visual aesthetics using a detailed, hand-drawn colored pencil and ink art style on textured aged paper (Havana Peter Pan Pirate motif).
 ---
+## 🎬 End-to-End Video Production Pipeline
+
+Here is the exact step-by-step workflow used to write, generate, edit, and subtitle every short-form video in the series:
+
+```text
+  [1. Script Writing] 
+          │
+          ▼
+  [2. Voicebox AI] ──(Synthesize & Export)──► [.MP3 Voiceover Track]
+                                                     │
+                                                     ▼
+  [3. DaVinci Resolve] ◄─────────────────────────────┘
+     ├─ Import audio into Track 1 (A1)
+     ├─ Assemble visual b-roll, screen captures & cuts
+     │
+     ▼
+  [4. AutoSubs Extension] ──(Detects Audio Peaks via Parakeet AI)
+     │
+     ▼
+  [5. Dynamic Subtitle Generation] ──► Auto-generates animated Text+ captions on V2
+     │
+     ▼
+  [6. Timeline Polishing & Final Render]
+
+```
+Script Drafting: Write a high-retention, microlearning script structured around a rapid "Hook → Problem → AI Solution → Result" format under 60 seconds.
+
+Voiceover Synthesis (Voicebox AI): Paste the script directly into Voicebox AI using the custom Qwen TTS 1.7B voice model with built-in compression and high-pass filtering, then export the finished narration as an .mp3 file.
+
+Timeline Assembly (DaVinci Resolve):
+
+Import the generated .mp3 file onto Audio Track 1 (A1) in the DaVinci Resolve timeline.
+
+Edit and pace the visual B-roll, screen recordings, cursor zooms, and cuts to synchronize tightly with the voice narration.
+
+Automated AI Subtitle Sync (AutoSubs):
+
+Run the AutoSubs extension inside DaVinci Resolve targeting the active narration track (Audio 1).
+
+The local speech-to-text model analyzes speech peaks and cadences to automatically generate dynamic, word-level animated Text+ captions directly on Video Track 2 (V2).
+
+Timeline Polish & Export: Review the generated subtitle cards directly on the timeline, adjust line breaks or styling where needed, balance final audio levels, and render the vertical short.
+
+---
 
 ## 📁 Repository Navigation
 
